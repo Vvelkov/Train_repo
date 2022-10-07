@@ -1,2 +1,2 @@
 # Train_repo
-Training repоо
+Training repо
